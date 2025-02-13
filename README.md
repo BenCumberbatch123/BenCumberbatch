@@ -22,3 +22,23 @@ A fun fact about myself is that im very introverted and easy to get along with o
  <source media="(prefers-color-scheme: light)" srcset="https://image8.uhdpaper.com/wallpaper/tengen-uzui-demon-slayer-uhdpaper.com-4K-8.1034.jpg">
  <img alt="Corvette Corvette" src="https://hdqwalls.com/wallpapers/corvette-convertible-2016.jpg">
 </picture>
+
+## About Me
+
+<!-- To-Do: Add more to this later On -->
+Hi I'm ben and I'm new to this!
+
+<details>
+ <summary>My Top Hobbies</summary>
+
+| Rank | HOBBIES |
+|-----:|---------------|
+|     1| BASKETBALL              |
+|     2| VIDEO GANES              |
+|     3| SOCIALIZING              |
+</details>
+
+---
+> Be Humble and never overthink
+
+-Ben the newbie
